@@ -1,0 +1,4 @@
+#use_output "dune top";;
+open Chess;;
+#use "src/piece.ml";;
+#use "src/board.ml";;

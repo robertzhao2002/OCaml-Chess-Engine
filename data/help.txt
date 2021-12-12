@@ -1,0 +1,29 @@
+Notation: each square on the board is referred to by a letter and a number. The letter 
+  represents the column, while the number represents the row. Example: the third square 
+  of the second row is notated as c7. 
+
+The black pieces are located on rows 7 and 8, while the white pieces are located on 
+rows 1 and 2.
+
+Rules for Piece Movement (Credit to ichess.net):
+Kings move one square in any direction, so long as that square is not attacked by an 
+  enemy piece. Additionally, kings are able to make a special move, known as castling.
+
+Queens move diagonally, horizontally, or vertically any number of squares. They are 
+  unable to jump over pieces.
+
+Rooks move horizontally or vertically any number of squares. They are unable to jump 
+  over pieces. Rooks move when the king castles.
+
+Bishops move diagonally any number of squares. They are unable to jump over pieces.
+
+Knights move in an ‘L’ shape’: two squares in a horizontal or vertical direction, then 
+  move one square horizontally or vertically. They are the only piece able to jump over 
+  other pieces.
+
+Pawns move vertically forward one square, with the option to move two squares if they 
+  have not yet moved. Pawns are the only piece to capture different to how they move. The 
+  pawns capture one square diagonally in a forward direction.
+  Pawns are unable to move backward on captures or moves. Upon reaching the other side of 
+ the board a pawn promotes into any other piece, except for a king. Additionally, pawns 
+  can make a special move named En Passant.

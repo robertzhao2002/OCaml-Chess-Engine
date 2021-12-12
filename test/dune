@@ -1,0 +1,4 @@
+(executables
+ (names main piece_test command_test board_test state_test values helper)
+ (modules main piece_test command_test board_test state_test values helper)
+ (libraries Chess ounit2))
