@@ -2,7 +2,7 @@
 
 ## About ##
 
-This is a text-based Chess game engine that was created using OCaml.  
+This is a text-based Chess game engine that was created using OCaml for Cornell University CS 3110. The original repository is [here](https://github.coecis.cornell.edu/xh245/cs3110-project) (Cornell login needed). 
 
 ## Installation ##
 
